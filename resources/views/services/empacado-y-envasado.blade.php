@@ -18,13 +18,13 @@
 
       <!-- Service Image -->
       <div class="image">
-        <img src="/assets/images/Dinproperu/empacadora-al-vacio-2.jpg" alt="Service-Image">
+        <img src="/assets/images/Dinproperu/empacadora-al-vacio-2.jpg" alt="dinproperu-empacadora-al-vacio">
       </div>
 
       <div class="content">
 
         <!-- Main Heading -->
-        <h3 class="main-heading">Optimice su Producción con Nuestras Máquinas de Envasado y Empacado</h3>
+        <h3 class="main-heading">Optimice su producción con nuestras máquinas de envasado y empacado</h3>
 
         <!-- Service Description -->
         <p>Debido a nuestra preocupación por apoyarlo en su crecimiento industrial, contamos con máquinas manuales y semiautomáticas para servicios de envasado o empacado de su producción. Porque sus productos requieren de una alta calidad en su presentación, lo invitamos a contactarse con nosotros y permitirnos asesorarlo. Existe una amplia gama de posibilidades para lograr presentaciones de calidad para sus productos.</p>

@@ -79,7 +79,7 @@
         <!-- Section Heading -->
         <div class="heading">  
           <span><i class="fas fa-wrench"></i>envianos un mensaje<i class="fas fa-wrench"></i></span>
-          <h2>ponte en contacto</h2>  
+          <h2>Ponte En Contacto</h2>  
         </div>
 
         <!-- Contact Form -->

@@ -61,7 +61,7 @@
       <div class="footer-item">
         <!-- Logo and site name -->
         <a class="logo" href="{{ route('pages.home') }}">
-          <img src="/assets/images/Dinproperu/dinproperu_logo.png" alt="logo">
+          <img src="/assets/images/Dinproperu/dinproperu_logo.png" alt="dinproperu-logo">
           <div class="logo-name">
             <h3><span>DINPRO PERU</span></h3>
           </div>
@@ -83,7 +83,7 @@
         <div class="info links pages">
           <div class="links-item">
             <p><i class="fa-solid fa-caret-right"></i><a href="{{ route('pages.about') }}">Nosotros</a></p>
-            <p><i class="fa-solid fa-caret-right"></i><a href="{{ route('pages.portfolio') }}">portfolio</a></p>
+            <p><i class="fa-solid fa-caret-right"></i><a href="{{ route('pages.portfolio') }}">Portfolio</a></p>
             <p><i class="fa-solid fa-caret-right"></i><a href="{{ route('pages.contact') }}">contáctenos</a></p>
           </div>
         </div>
@@ -93,14 +93,14 @@
       <div class='footer-item'>
         <h2>Nuestros servicios</h2> 
         <div class="info service">
-          <p><i class="fa-solid fa-caret-right"></i><a href="{{ route('pages.services.empacado') }}">empacado y envasado</a></p>
-          <p><i class="fa-solid fa-caret-right"></i><a href="{{ route('pages.services.ingenieria') }}">ingeniería y mantenimiento</a></p>
+          <p><i class="fa-solid fa-caret-right"></i><a href="{{ route('pages.services.empacado') }}">Empacado y envasado</a></p>
+          <p><i class="fa-solid fa-caret-right"></i><a href="{{ route('pages.services.ingenieria') }}">Ingeniería y mantenimiento</a></p>
         </div>
       </div>
 
       <!-- Footer item 4 - Opening hours and social links -->
       <div class='footer-item'>
-        <h2>Opening Hours</h2>
+        <h2>Horario de apertura</h2>
         <div class="info timing">
           <i class="far fa-clock"></i>
           <div class="time-item">

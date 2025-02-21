@@ -12,13 +12,13 @@
             <a href="{{ route('pages.services.empacado') }}"
                class="{{ setActiveRoute('pages.services.empacado') }}">
                 <span>
-                    <i class="fas fa-caret-right"></i>empacado y envasado
+                    <i class="fas fa-caret-right"></i>Empacado y envasado
                 </span>
             </a>
             <a href="{{ route('pages.services.ingenieria') }}"
                class="{{ setActiveRoute('pages.services.ingenieria') }}">
                 <span>
-                    <i class="fas fa-caret-right"></i>ingeniería y mantenimiento
+                    <i class="fas fa-caret-right"></i>Ingeniería y mantenimiento
                 </span>
             </a>
         </div>

@@ -6,13 +6,13 @@
   <div class="page-title">
 
     <div class="title">
-      <h2>horno termo contraíble con enfajadora automática</h2>
+      <h2>Horno termo contraíble con enfajadora automática</h2>
     </div> 
 
     <div class="link">
-      <a href="{{ route('pages.home') }}"><i class="fa-solid fa-wrench"></i> máquinas</a>
+      <a href="{{ route('pages.machines') }}"><i class="fa-solid fa-wrench"></i> Máquinas</a>
       <i class="fas fa-angle-double-right"></i>
-      <span class="page">horno termo contraíble con encajadora automática</span>
+      <span class="page">Horno termo contraíble con encajadora automática</span>
     </div>
 
   </div>
@@ -32,13 +32,13 @@
     
             <!-- Main product image -->
             <div class="main">
-              <img src="/assets/images/Dinproperu/horno-termo-contraible-con-enfajadora-automatica.png" alt="Product-Image"> <!-- Main product image -->
+              <img src="/assets/images/Dinproperu/horno-termo-contraible-con-enfajadora-automatica.png" alt="dinproperu-horno-termo-contraible-con-enfajadora-automatica"> <!-- Main product image -->
             </div>
     
             <!-- Product Image Gallery Buttons -->
             <div class="change-btns">
-              <img class="active" src="/assets/images/Dinproperu/horno-termo-contraible-con-enfajadora-automatica.png" alt="Product-Gallery-Image-1"> <!-- Active image in the gallery -->
-              <img src="/assets/images/Dinproperu/horno-termo-contraible-con-enfajadora-automatica-2.jpg" alt="Product-Gallery-Image-2"> <!-- Image in the gallery -->  
+              <img class="active" src="/assets/images/Dinproperu/horno-termo-contraible-con-enfajadora-automatica.png" alt="dinproperu-horno-termo-contraible-con-enfajadora-automatica"> <!-- Active image in the gallery -->
+              <img src="/assets/images/Dinproperu/horno-termo-contraible-con-enfajadora-automatica-2.jpg" alt="dinproperu-horno-termo-contraible-con-enfajadora-automatica"> <!-- Image in the gallery -->  
             </div>
     
           </div>
@@ -49,7 +49,7 @@
           <div class="text">
     
             <div class="introduction">
-              <h3>horno termo contraíble con enfajadora automática</h3> <!-- Product Title -->
+              <h3>Horno termo contraíble con enfajadora automática</h3> <!-- Product Title -->
             </div>
     
             <p>Fabricado en acero al carbono y acero inoxidable, con resistencias tubulares y recirculación de aire caliente. Cuenta con banda transportadora de velocidad variable, barra de sellado en acero especial, debobinador superior e inferior, controles de temperatura digital y sistema de empacado en modos automático, semiautomático y manual. Incorpora enfriador de paquetes y rampa de acumulación a la salida.</p> <!-- Product Description -->

@@ -6,13 +6,13 @@
   <div class="page-title">
 
     <div class="title">
-      <h2>máquinas dosificadoras y llenadoras</h2>
+      <h2>Máquinas dosificadoras y llenadoras</h2>
     </div> 
 
     <div class="link">
-      <a href="{{ route('pages.home') }}"><i class="fa-solid fa-wrench"></i> máquinas</a>
+      <a href="{{ route('pages.machines') }}"><i class="fa-solid fa-wrench"></i> Máquinas</a>
       <i class="fas fa-angle-double-right"></i>
-      <span class="page">máquinas dosificadoras y llenadoras</span>
+      <span class="page">Máquinas dosificadoras y llenadoras</span>
     </div>
 
   </div>
@@ -32,7 +32,7 @@
     
             <!-- Main product image -->
             <div class="main">
-              <img src="/assets/images/Dinproperu/maquinas-dosificadoras-y-llenadoras.jpg" alt="Product-Image"> <!-- Main product image -->
+              <img src="/assets/images/Dinproperu/maquinas-dosificadoras-y-llenadoras.jpg" alt="dinproperu-maquinas-dosificadoras-y-llenadoras"> <!-- Main product image -->
             </div>
     
           </div>
@@ -43,7 +43,7 @@
           <div class="text">
     
             <div class="introduction">
-              <h3>máquinas dosificadoras y llenadoras</h3> <!-- Product Title -->
+              <h3>Máquinas dosificadoras y llenadoras</h3> <!-- Product Title -->
             </div>
     
             <p>Fabricadas en acero inoxidable, con control de temperatura digital y sistema de accionamiento electro-neumático de velocidad regulable. Disponibles en versiones manual, semiautomática o automática.</p> <!-- Product Description -->

@@ -10,21 +10,21 @@
 
         <!-- Slide 1: Expert Car Repairs -->
         <div class="swiper-slide home-item">
-          <img src="/assets/images/Dinproperu/fabricacion-de-maquinas-para-envasado-de-productos-sanitarios-y-afines-banner.jpg" alt="feature-image1"> <!-- Slide Image -->
+          <img src="/assets/images/Dinproperu/fabricacion-de-maquinas-para-envasado-de-productos-sanitarios-y-afines-banner.jpg" alt="dinproperu-abricacion-de-maquinas-para-envasado-de-productos-sanitarios-y-afines"> <!-- Slide Image -->
         </div>
 
         <!-- Slide 2: Quality Repairs -->
         <div class="swiper-slide home-item">
-          <img src="/assets/images/Dinproperu/diseno-y-fabricacion-de-maquinas-para-envasado-y-empacado-banner.jpg" alt="feature-image2"> <!-- Slide Image -->
+          <img src="/assets/images/Dinproperu/diseno-y-fabricacion-de-maquinas-para-envasado-y-empacado-banner.jpg" alt="dinproperu-diseno-y-fabricacion-de-maquinas-para-envasado-y-empacado"> <!-- Slide Image -->
         </div>
 
         <!-- Slide 3: Car Care Experts -->
         <div class="swiper-slide home-item">
-          <img src="/assets/images/Dinproperu/empacadora-al-vacio-banner.jpg" alt="feature-image3"> <!-- Slide Image -->
+          <img src="/assets/images/Dinproperu/empacadora-al-vacio-banner.jpg" alt="dinproperu-empacadora-al-vacio-banner"> <!-- Slide Image -->
           <div class="content-2">
             <div class="text">
-              <h4><i class="fas fa-tools"></i>fabricación de máquinas según sus necesidades</h4>
-              <h3>revisa nuestros magníficos servicios</h3>
+              <h4><i class="fas fa-tools"></i>FABRICACIÓN DE MÁQUINAS SEGÚN SUS NECESIDADES</h4>
+              <h3>REVISA NUESTROS MAGNÍFICOS SERVICIOS</h3>
               <a href="{{ route('pages.services.empacado') }}" class="btn">Servicios</a> <!-- Button to Services Page -->
             </div>
           </div>
@@ -52,21 +52,21 @@
       <div class="feature-item">
         <i class="fa-solid fa-user-gear"></i>
         <div class="content">
-          <h3>pruebas de empacado real con sus productos</h3>
+          <h3>Pruebas de empacado real con sus productos</h3>
         </div>
       </div>
 
       <div class="feature-item">
         <i class="fa-solid fa-screwdriver-wrench"></i>
         <div class="content">
-          <h3>aplicación de tecnología actualizada</h3>
+          <h3>Aplicación de tecnología actualizada</h3>
         </div>
       </div>
 
       <div class="feature-item">
         <i class="fa-regular fa-face-smile"></i>
         <div class="content">
-          <h3>experiencia en máquinas de envasado y empacado</h3>
+          <h3>Experiencia en máquinas de envasado y empacado</h3>
         </div>
       </div>
 
@@ -92,8 +92,8 @@
         <div class="text">
 
           <!-- Main Text Content -->
-          <h3>Diseño y Fabricación de máquinas para empacado y envasado</h3>
-          <p>diseño y la fabricación de maquinas 
+          <h3>Diseño y fabricación de máquinas para empacado y envasado</h3>
+          <p>Diseño y la fabricación de maquinas 
             envasadoras y empacadoras para las diferentes empresas dedicadas a 
             la producción. Nuestra experiencia en el rubro y la aplicación de 
             tecnología actualizada, nos permite brindarles maquinas productivas 
@@ -105,19 +105,19 @@
             <!-- Bullet Point Item: Skilled and certified mechanics -->
             <div class="point-item">
               <i class="fa-solid fa-cog"></i>
-              <p>Fabricados en acero inoxidable</p>
+              <p>Fabricados En Acero Inoxidable</p>
             </div>
 
             <!-- Bullet Point Item: High-quality parts and services -->
             <div class="point-item">
               <i class="fa-solid fa-cog"></i>
-              <p>Fabricados en acero al carbono</p>
+              <p>Fabricados En Acero Al Carbono</p>
             </div>
 
             <!-- Bullet Point Item: Commitment to customer satisfaction -->
             <div class="point-item">
               <i class="fa-solid fa-cog"></i>
-              <p>Sistema de empacado automático</p>
+              <p>Sistema De Empacado Automático</p>
             </div>
 
             <!-- Bullet Point Item: Commitment to customer satisfaction -->
@@ -141,7 +141,7 @@
     <!-- Heading -->
     <div class="heading">
       <span><i class="fas fa-wrench"></i>algunas de nuestras máquinas<i class="fas fa-wrench"></i></span>
-      <h2>tecnología que se adapta a sus necesidades</h2>
+      <h2>Tecnología que se adapta a sus necesidades</h2>
     </div>
 
     <!-- Services -->
@@ -150,33 +150,33 @@
       <!-- Service Item 1: Brake Repairs -->
       <div class="service-item">
         <div class="image">
-          <img src="/assets/images/Dinproperu/horno-termo-contraible-con-enfajadora-automatica-2.png" alt="Service-Image"> <!-- Service Image -->
+          <img src="/assets/images/Dinproperu/horno-termo-contraible-con-enfajadora-automatica-2.png" alt="dinproperu-horno-termo-contraible-con-enfajadora-automatica"> <!-- Service Image -->
         </div>
         <div class="content">
-          <a href="{{ route('pages.machines.horno-termo-contraible-con-enfajadora-automatica') }}">horno termo contraíble con enfajadora automática</a> <!-- Service Title with Link -->
-          <p>fabricado en acero al carbono y acero inoxidable, resistencias tubulares con recirculación de aire caliente.</p> <!-- Service Description -->
+          <a href="{{ route('pages.machines.horno-termo-contraible-con-enfajadora-automatica') }}">Horno termo contraíble con enfajadora automática</a> <!-- Service Title with Link -->
+          <p>Fabricado en acero al carbono y acero inoxidable, resistencias tubulares con recirculación de aire caliente.</p> <!-- Service Description -->
         </div>
       </div>
 
       <!-- Service Item 2: Engine Repair -->
       <div class="service-item">
         <div class="image">
-          <img src="/assets/images/Dinproperu/horno-etiquetador-600x400.png" alt="Service-Image"> <!-- Service Image -->
+          <img src="/assets/images/Dinproperu/horno-etiquetador-600x400.png" alt="dinproperu-horno-etiquetador"> <!-- Service Image -->
         </div>
         <div class="content">
-          <a href="{{ route('pages.machines.horno-etiquetador') }}">horno etiquetador</a> <!-- Service Title with Link -->
-          <p>fabricado en acero inoxidable, banda transportadora de velocidad variable, resistencias eléctricas con recirculadora de aire control de temperatura digital.</p> <!-- Service Description -->
+          <a href="{{ route('pages.machines.horno-etiquetador') }}">Horno etiquetador</a> <!-- Service Title with Link -->
+          <p>Fabricado en acero inoxidable, banda transportadora de velocidad variable, resistencias eléctricas con recirculadora de aire control de temperatura digital.</p> <!-- Service Description -->
         </div>
       </div>
 
       <!-- Service Item 3: Oil & Filters -->
       <div class="service-item">
         <div class="image">
-          <img src="/assets/images/Dinproperu/empacadora-al-vacio-600x400.png" alt="Service-Image"> <!-- Service Image -->
+          <img src="/assets/images/Dinproperu/empacadora-al-vacio-600x400.png" alt="dinproperu-empacadora-al-vacio"> <!-- Service Image -->
         </div>
         <div class="content">
-          <a href="{{ route('pages.machines.empacadora-al-vacio') }}">empacadora al vacío</a> <!-- Service Title with Link -->
-          <p>máquina fabricada en acero inoxidable diseñada para empacar por presión negativa, vacuo metro de control de presión negativa.</p> <!-- Service Description -->
+          <a href="{{ route('pages.machines.empacadora-al-vacio') }}">Empacadora al vacío</a> <!-- Service Title with Link -->
+          <p>Máquina fabricada en acero inoxidable diseñada para empacar por presión negativa, vacuo metro de control de presión negativa.</p> <!-- Service Description -->
         </div>
       </div>
     </div>
@@ -190,7 +190,7 @@
     <!-- Heading Section -->
     <div class="heading">
       <span><i class="fas fa-wrench"></i>nuestro trabajo<i class="fas fa-wrench"></i></span>
-      <h2>portfolio <a href="{{ route('pages.portfolio') }}"><i class="fa fa-arrow-right"></i></a></h2>
+      <h2>Portfolio <a href="{{ route('pages.portfolio') }}"><i class="fa fa-arrow-right"></i></a></h2>
     </div>
 
     <!-- Container for Portfolio Items -->
@@ -199,11 +199,11 @@
       <!-- Image -->
       <div class="portfolio-item image">
         <div class="portfolio-content">
-          <img src="./assets/images/Dinproperu/dinproperu_logo.png" alt="portfolio-Image"> <!-- Image for Portfolio Item -->
+          <img src="/assets/images/Dinproperu/dinproperu_logo.png" alt="dinproperu-logo"> <!-- Image for Portfolio Item -->
           <div class="content">
             <div class="text">
               <h5>Revisa nuestro trabajo</h5>
-              <a href="{{ route('pages.portfolio') }}"><h4>ir al portfolio</h4></a> <!-- Link to Single Portfolio Page -->
+              <a href="{{ route('pages.portfolio') }}"><h4>Ir al portfolio</h4></a> <!-- Link to Single Portfolio Page -->
             </div>
           </div>
         </div>
@@ -212,9 +212,9 @@
       <!-- Image-->
       <div class="portfolio-item image">
         <div class="portfolio-content">
-          <img src="./assets/images/Dinproperu/empacadora-al-vacio-2.jpg" alt="portfolio-Image"> <!-- Image for Portfolio Item -->
+          <img src="/assets/images/Dinproperu/empacadora-al-vacio-2.jpg" alt="dinproperu-empacadora-al-vacio"> <!-- Image for Portfolio Item -->
           <div class="content">
-            <a class="view" href="./assets/images/Dinproperu/empacadora-al-vacio-2.jpg"><i class="fas fa-expand-alt"></i></a> <!-- View Link -->
+            <a class="view" href="/assets/images/Dinproperu/empacadora-al-vacio-2.jpg"><i class="fas fa-expand-alt"></i></a> <!-- View Link -->
           </div>
         </div>
       </div>
@@ -222,9 +222,9 @@
       <!-- Image -->
       <div class="portfolio-item image">
         <div class="portfolio-content">
-          <img src="./assets/images/Dinproperu/fajas-transportadoras.png" alt="portfolio-Image"> <!-- Image for Portfolio Item -->
+          <img src="/assets/images/Dinproperu/fajas-transportadoras.png" alt="dinproperu-fajas-transportadoras"> <!-- Image for Portfolio Item -->
           <div class="content">
-            <a class="view" href="./assets/images/Dinproperu/fajas-transportadoras.png"><i class="fas fa-expand-alt"></i></a> <!-- View Link -->
+            <a class="view" href="/assets/images/Dinproperu/fajas-transportadoras.png"><i class="fas fa-expand-alt"></i></a> <!-- View Link -->
           </div>
         </div>
       </div>
@@ -232,9 +232,9 @@
       <!-- Image -->
       <div class="portfolio-item image">
         <div class="portfolio-content">
-          <img src="./assets/images/Dinproperu/horno-etiquetador-2.png" alt="portfolio-Image"> <!-- Image for Portfolio Item -->
+          <img src="/assets/images/Dinproperu/horno-etiquetador-2.png" alt="dinproperu-horno-etiquetador-"> <!-- Image for Portfolio Item -->
           <div class="content">
-            <a class="view" href="./assets/images/Dinproperu/horno-etiquetador-2.png"><i class="fas fa-expand-alt"></i></a> <!-- View Link -->
+            <a class="view" href="/assets/images/Dinproperu/horno-etiquetador-2.png"><i class="fas fa-expand-alt"></i></a> <!-- View Link -->
           </div>
         </div>
       </div>
@@ -242,9 +242,9 @@
       <!-- Image -->
       <div class="portfolio-item image">
         <div class="portfolio-content">
-          <img src="./assets/images/Dinproperu/fabricaciones-especiales.jpg" alt="portfolio-Image"> <!-- Image for Portfolio Item -->
+          <img src="/assets/images/Dinproperu/fabricaciones-especiales.jpg" alt="dinproperu-fabricaciones-especiales"> <!-- Image for Portfolio Item -->
           <div class="content">
-            <a class="view" href="./assets/images/Dinproperu/fabricaciones-especiales.jpg"><i class="fas fa-expand-alt"></i></a> <!-- View Link -->
+            <a class="view" href="/assets/images/Dinproperu/fabricaciones-especiales.jpg"><i class="fas fa-expand-alt"></i></a> <!-- View Link -->
           </div>
         </div>
       </div>
@@ -252,9 +252,9 @@
       <!-- Image -->
       <div class="portfolio-item image">
         <div class="portfolio-content">
-          <img src="./assets/images/Dinproperu/horno-termo-contraible-con-enfajadora-automatica-2.jpg" alt="portfolio-Image"> <!-- Image for Portfolio Item -->
+          <img src="/assets/images/Dinproperu/horno-termo-contraible-con-enfajadora-automatica-2.jpg" alt="dinproperu-horno-termo-contraible-con-enfajadora-automatica"> <!-- Image for Portfolio Item -->
           <div class="content">
-            <a class="view" href="./assets/images/Dinproperu/horno-termo-contraible-con-enfajadora-automatica-2.jpg"><i class="fas fa-expand-alt"></i></a> <!-- View Link -->
+            <a class="view" href="/assets/images/Dinproperu/horno-termo-contraible-con-enfajadora-automatica-2.jpg"><i class="fas fa-expand-alt"></i></a> <!-- View Link -->
           </div>
         </div>
       </div>

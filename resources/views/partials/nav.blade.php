@@ -24,8 +24,8 @@
         <div id="menu-btn" class="icon fa-solid fa-bars-staggered"></div>
 
         <!-- Logo --> 
-        <a class="logo" href="./index.html">
-          <img src="/assets/images/Dinproperu/dinproperu_logo.png" alt="logo">
+        <a class="logo" href="{{ route('pages.home') }}">
+          <img src="/assets/images/Dinproperu/dinproperu_logo.png" alt="dinproperu-logo">
           <div class="logo-name">
             <h3><span>DINPRO PERU</span></h3>
           </div>
@@ -36,17 +36,17 @@
           <!-- Navbar --> 
           <nav class="navbar">
 
-            <a class="nav-btn" href="{{ route('pages.home') }}">Inicio</a>
+            <a class="nav-btn {{ setActiveRoute('pages.home') }}" href="{{ route('pages.home') }}">Inicio</a>
 
-            <a class="nav-btn" href="{{ route('pages.about') }}">Nosotros</a> 
+            <a class="nav-btn {{ setActiveRoute('pages.about') }}" href="{{ route('pages.about') }}">Nosotros</a> 
 
-            <a class="nav-btn" href="{{ route('pages.services.empacado') }}">Servicios</a>
+            <a class="nav-btn {{ setActiveRoute(['pages.services.empacado', 'pages.services.ingenieria']) }}" href="{{ route('pages.services.empacado') }}">Servicios</a>
 
-            <a class="nav-btn" href="{{ route('pages.machines') }}">Máquinas</a>
+            <a class="nav-btn {{ setActiveRoute('pages.machines') }}" href="{{ route('pages.machines') }}">Máquinas</a>
               
-            <a class="nav-btn" href="{{ route('pages.portfolio') }}">Portfolio</a>   
+            <a class="nav-btn {{ setActiveRoute('pages.portfolio') }}" href="{{ route('pages.portfolio') }}">Portfolio</a>   
 
-            <a class="nav-btn" href="{{ route('pages.contact') }}">Contáctenos</a>
+            <a class="nav-btn {{ setActiveRoute('pages.contact') }}" href="{{ route('pages.contact') }}">Contáctenos</a>
 
           </nav> 
 

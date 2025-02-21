@@ -27,10 +27,10 @@
       <div class="box-container">
 
         <div class="image">
-          <img src="/assets/images/Dinproperu/fabricaciones-especiales.jpg" alt="About-Image"> <!-- About Image -->
+          <img src="/assets/images/Dinproperu/fabricaciones-especiales.jpg" alt="dinproperu-fabricaciones-especiales"> <!-- About Image -->
           <div class="tag"> <!-- Experience Tag -->
             <span>21</span>
-            <div>años de <br> experiencia</div>
+            <div>Años De <br> Experiencia</div>
           </div>
         </div>
 
@@ -43,10 +43,10 @@
             </div>
 
             <!-- Main Text Content -->
-            <h3>sus expertos en fabricación de máquinas empacadoras y envasadoras</h3>
+            <h3>Sus expertos en fabricación de máquinas empacadoras y envasadoras</h3>
             <p>Somos una empresa peruana, nos dedicamos al diseño y la fabricación de máquinas para empacado y envasado. brindamos servicio de mantenimiento, maestranza y suministro de piezas y repuestos de neumática, electrónica y otros.</p>
             <br>
-            <p>valores de la empresa:</p>
+            <p>Valores de la empresa:</p>
             
             <!-- Bullet Points Section -->
             <div class="point">
@@ -54,13 +54,13 @@
               <!-- Bullet Point Item: Skilled and certified mechanics -->
               <div class="point-item">
                 <i class="fa-solid fa-check"></i>
-                <p>calidad</p>
+                <p>Calidad</p>
               </div>
 
               <!-- Bullet Point Item: High-quality parts and services -->
               <div class="point-item">
                 <i class="fa-solid fa-check"></i>
-                <p>compromiso</p>
+                <p>Compromiso</p>
               </div>
 
                <!-- Bullet Point Item: High-quality parts and services -->
@@ -93,7 +93,7 @@
         <i class="fa-solid fa-check-circle"></i>
         <div class="text">
           <div class="count" data-count="100">5000+</div>
-          <h3>calidad y diseño</h3>
+          <h3>Calidad y Diseño</h3>
         </div>
       </div>
 
@@ -102,7 +102,7 @@
         <i class="fa-solid fa-user-gear"></i>
         <div class="text">
           <div class="count" data-count="1000">1000+</div>
-          <h3>máquinas fabricadas</h3>
+          <h3>Máquinas Fabricadas</h3>
         </div>
       </div>
 
@@ -111,7 +111,7 @@
         <i class="fa-regular fa-face-smile"></i>
         <div class="text">
           <div class="count" data-count="5000">5000+</div>
-          <h3>clientes satisfechos</h3>
+          <h3>Clientes Satisfechos</h3>
         </div>
       </div>
 
@@ -120,7 +120,7 @@
         <i class="fa-regular fa-calendar"></i>
         <div class="text">
           <div class="count" data-count="20">20+</div>
-          <h3>años de experiencia</h3>
+          <h3>Años de Experiencia</h3>
         </div>
       </div>
       
@@ -142,7 +142,7 @@
         <!-- Process Step 1 -->
         <div class="process-item">
           <div class="image">
-            <img src="/assets/images/Dinproperu/dinproperu-profesionales.jpg" alt="Process-Image"> <!-- Process Image -->
+            <img src="/assets/images/Dinproperu/dinproperu-profesionales.jpg" alt="dinproperu-profesionales"> <!-- Process Image -->
             <span class="step-no">01</span> <!-- Process Step Number 1 -->
           </div>
           <div class="content">
@@ -154,7 +154,7 @@
         <!-- Process Step 2 -->
         <div class="process-item">
           <div class="image">
-            <img src="/assets/images/Dinproperu/dinproperu-trayectoria.jpg" alt="Process-Image"> <!-- Process Image -->
+            <img src="/assets/images/Dinproperu/dinproperu-trayectoria.jpg" alt="dinproperu-trayectoria"> <!-- Process Image -->
             <span class="step-no">02</span><!-- Process Step Number 2 -->
           </div>
           <div class="content">
@@ -166,7 +166,7 @@
         <!-- Process Step 3 -->
         <div class="process-item">
           <div class="image">
-            <img src="/assets/images/Dinproperu/dinproperu-compromiso.jpg" alt="Process-Image"> <!-- Process Image -->
+            <img src="/assets/images/Dinproperu/dinproperu-compromiso.jpg" alt="dinproperu-compromiso"> <!-- Process Image -->
             <span class="step-no">03</span> <!-- Process Step Number 3 -->
           </div>
           <div class="content">
@@ -178,7 +178,7 @@
         <!-- Process Step 4 -->
         <div class="process-item">
           <div class="image">
-            <img src="/assets/images/Dinproperu/dinproperu-adaptables.jpg" alt="Process-Image"> <!-- Process Image -->
+            <img src="/assets/images/Dinproperu/dinproperu-adaptables.jpg" alt="dinproperu-adaptables"> <!-- Process Image -->
             <span class="step-no">04</span> <!-- Process Step Number 4 -->
           </div>
           <div class="content">
@@ -204,7 +204,7 @@
       <!-- Testimonial Heading -->
       <div class="heading"> 
         <span><i class="fas fa-wrench"></i>qué dicen nuestros clientes<i class="fas fa-wrench"></i></span>
-        <h2>nuestros testimonios</h2>
+        <h2>Nuestros testimonios</h2>
       </div>
     
       <!-- Testimonial Slider Container -->
@@ -214,7 +214,7 @@
           <!-- Testimonial Item 1 -->
           <div class="swiper-slide testi-item">
             <div class="image">
-              <img src="/assets/images/Dinproperu/comentario-dinproperu-fondo-blanco.png" alt="Testimonial-Image"> <!-- Testimonial Image -->
+              <img src="/assets/images/Dinproperu/comentario-dinproperu-fondo-blanco.png" alt="dinproperu-comentario"> <!-- Testimonial Image -->
             </div>
             <div class="content">
               <i class="fas fa-quote-left icon-1"></i> <!-- Quotation Icon -->
@@ -228,7 +228,7 @@
           <!-- Testimonial Item 2 -->
           <div class="swiper-slide testi-item">
             <div class="image">
-              <img src="/assets/images/Dinproperu/comentario-dinproperu-fondo-blanco.png" alt="Testimonial-Image"> <!-- Testimonial Image -->
+              <img src="/assets/images/Dinproperu/comentario-dinproperu-fondo-blanco.png" alt="dinproperu-comentario"> <!-- Testimonial Image -->
             </div>
             <div class="content">
               <i class="fas fa-quote-left icon-1"></i> <!-- Quotation Icon -->

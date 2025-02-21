@@ -6,13 +6,13 @@
   <div class="page-title">
 
     <div class="title">
-      <h2>fabricaciones especiales</h2>
+      <h2>Fabricaciones especiales</h2>
     </div> 
 
     <div class="link">
-      <a href="{{ route('pages.home') }}"><i class="fa-solid fa-wrench"></i> máquinas</a>
+      <a href="{{ route('pages.machines') }}"><i class="fa-solid fa-wrench"></i> Máquinas</a>
       <i class="fas fa-angle-double-right"></i>
-      <span class="page">fabricaciones especiale</span>
+      <span class="page">Fabricaciones especiale</span>
     </div>
 
   </div>
@@ -32,7 +32,7 @@
     
             <!-- Main product image -->
             <div class="main">
-              <img src="/assets/images/Dinproperu/fabricaciones-especiales-500x500.jpg" alt="Product-Image"> <!-- Main product image -->
+              <img src="/assets/images/Dinproperu/fabricaciones-especiales-500x500.jpg" alt="dinproperu-fabricaciones-especiales"> <!-- Main product image -->
             </div>
           </div>
         </div>
@@ -42,7 +42,7 @@
           <div class="text">
     
             <div class="introduction">
-              <h3>fabricaciones especiales</h3> <!-- Product Title -->
+              <h3>Fabricaciones especiales</h3> <!-- Product Title -->
               <div class="intro"> 
                 <!-- Product Rating -->
               </div>
@@ -78,7 +78,7 @@
         <!-- Product-2 -->
         <div class="product-item">
           <div class="image">
-              <img src="/assets/images/Dinproperu/horno-etiquetador.png" alt="Product-Image"> <!-- Product Image -->
+              <img src="/assets/images/Dinproperu/horno-etiquetador.png" alt="dinproperu-horno-etiquetador"> <!-- Product Image -->
               <div class="icon-box">
                   <a href="{{ route('pages.machines.horno-etiquetador') }}"><i class="fa-solid fa-eye"></i></a><!-- Product Single Link Button -->
               </div>
@@ -93,14 +93,14 @@
         <!-- Product-3 -->
         <div class="product-item">
             <div class="image">
-                <img src="/assets/images/Dinproperu/maquinas-dosificadoras-y-llenadoras.jpg" alt="Product-Image"> <!-- Product Image -->
+                <img src="/assets/images/Dinproperu/maquinas-dosificadoras-y-llenadoras.jpg" alt="dinproperu-maquinas-dosificadoras-y-llenadoras"> <!-- Product Image -->
                 <div class="icon-box">
                     <a href="{{ route('pages.machines.maquinas-dosificadoras-y-llenadoras') }}"><i class="fa-solid fa-eye"></i></a><!-- Product Single Link Button -->
                 </div>
             </div>
             <div class="content">
                 <div class="text">
-                    <a href="{{ route('pages.machines.maquinas-dosificadoras-y-llenadoras') }}"><h3>máquinas dosificadoras y llenadoras</h3></a> <!-- Product Title -->
+                    <a href="{{ route('pages.machines.maquinas-dosificadoras-y-llenadoras') }}"><h3>Máquinas dosificadoras y llenadoras</h3></a> <!-- Product Title -->
                 </div>
             </div>
         </div>
@@ -108,14 +108,14 @@
         <!-- Product-4 -->
         <div class="product-item">
             <div class="image">
-                <img src="/assets/images/Dinproperu/horno-termo-contraible-con-enfajadora-automatica.png" alt="Product-Image"> <!-- Product Image -->
+                <img src="/assets/images/Dinproperu/horno-termo-contraible-con-enfajadora-automatica.png" alt="dinproperu-horno-termo-contraible-con-enfajadora-automatica"> <!-- Product Image -->
                 <div class="icon-box">
                     <a href="{{ route('pages.machines.horno-termo-contraible-con-enfajadora-automatica') }}"><i class="fa-solid fa-eye"></i></a><!-- Product Single Link Button -->
                 </div>
             </div>
             <div class="content">
                 <div class="text">
-                    <a href="{{ route('pages.machines.horno-termo-contraible-con-enfajadora-automatica') }}"><h3>horno termo contraible con enfajadora automática</h3></a> <!-- Product Title -->
+                    <a href="{{ route('pages.machines.horno-termo-contraible-con-enfajadora-automatica') }}"><h3>Horno termo contraible con enfajadora automática</h3></a> <!-- Product Title -->
                 </div>
             </div>
         </div>
@@ -123,14 +123,14 @@
         <!-- Product-5 -->
         <div class="product-item">
             <div class="image">
-                <img src="/assets/images/Dinproperu/empacadora-al-vacio.jpg" alt="Product-Image"> Product Image
+                <img src="/assets/images/Dinproperu/empacadora-al-vacio.jpg" alt="dinproperu-empacadora-al-vacio">
                 <div class="icon-box">
                     <a href="{{ route('pages.machines.empacadora-al-vacio') }}"><i class="fa-solid fa-eye"></i></a><!-- Product Single Link Button -->
                 </div>
             </div>
             <div class="content">
                 <div class="text">
-                    <a href="{{ route('pages.machines.empacadora-al-vacio') }}"><h3>empacadora al vacío</h3></a> <!-- Product Title -->
+                    <a href="{{ route('pages.machines.empacadora-al-vacio') }}"><h3>Empacadora al vacío</h3></a> <!-- Product Title -->
                 </div>
             </div>
         </div>

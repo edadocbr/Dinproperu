@@ -6,13 +6,13 @@
   <div class="page-title">
 
     <div class="title">
-      <h2>horno etiquetador</h2>
+      <h2>Horno etiquetador</h2>
     </div> 
 
     <div class="link">
-      <a href="{{ route('pages.home') }}"><i class="fa-solid fa-wrench"></i> máquinas</a>
+      <a href="{{ route('pages.machines') }}"><i class="fa-solid fa-wrench"></i> Máquinas</a>
       <i class="fas fa-angle-double-right"></i>
-      <span class="page">horno etiquetador</span>
+      <span class="page">Horno etiquetador</span>
     </div>
 
   </div>
@@ -32,13 +32,13 @@
     
             <!-- Main product image -->
             <div class="main">
-              <img src="/assets/images/Dinproperu/horno-etiquetador.png" alt="Product-Image"> <!-- Main product image -->
+              <img src="/assets/images/Dinproperu/horno-etiquetador.png" alt="dinproperu-horno-etiquetador"> <!-- Main product image -->
             </div>
     
             <!-- Product Image Gallery Buttons -->
             <div class="change-btns">
-              <img class="active" src="/assets/images/Dinproperu/horno-etiquetador.png" alt="Product-Gallery-Image-1"> <!-- Active image in the gallery -->
-              <img src="/assets/images/Dinproperu/horno-etiquetador-2.png" alt="Product-Gallery-Image-2"> <!-- Image in the gallery -->
+              <img class="active" src="/assets/images/Dinproperu/horno-etiquetador.png" alt="dinproperu-horno-etiquetador"> <!-- Active image in the gallery -->
+              <img src="/assets/images/Dinproperu/horno-etiquetador-2.png" alt="dinproperu-horno-etiquetador"> <!-- Image in the gallery -->
             </div>
     
           </div>
@@ -49,7 +49,7 @@
           <div class="text">
     
             <div class="introduction">
-              <h3>horno etiquetador</h3> <!-- Product Title -->
+              <h3>Horno etiquetador</h3> <!-- Product Title -->
             </div>
     
             <p>Fabricado en acero inoxidable, con banda transportadora de velocidad variable, resistencias eléctricas con recirculador de aire, control de temperatura digital y patas regulables.</p> <!-- Product Description -->

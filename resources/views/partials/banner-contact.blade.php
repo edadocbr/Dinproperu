@@ -7,5 +7,5 @@
 </div>
 
 <div class="image">
-    <img src="./assets/images/Dinproperu/horno-termo-contraible-con-enfajadora-automatica-transparente.png" alt="Banner-Image"> <!-- Banner Image -->
+    <img src="/assets/images/Dinproperu/horno-termo-contraible-con-enfajadora-automatica-transparente.png" alt="dinproperu-horno-termo-contraible-con-enfajadora-automatica"> <!-- Banner Image -->
 </div>
