@@ -4,7 +4,6 @@ use App\Http\Controllers\ContactController;
 use App\Http\Controllers\MachinesController;
 use App\Http\Controllers\PagesController;
 use App\Http\Controllers\ServicesController;
-use App\Mail\ContactMail;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', [PagesController::class, 'home'])->name('pages.home');
@@ -29,12 +28,6 @@ Route::get('portfolio', [PagesController::class, 'portfolio'])->name('pages.port
 Route::get('contactenos', [PagesController::class, 'contact'])->name('pages.contact');
 Route::post('contactenos', [ContactController::class, 'sendEmail'])->name('contact.send');
 
-Route::middleware([
-    'auth:sanctum',
-    config('jetstream.auth_session'),
-    'verified',
-])->group(function () {
-    Route::get('/dashboard', function () {
-        return view('dashboard');
-    })->name('dashboard');
-});
+Route::get('admin', function () {
+    return view('dashboard');
+})->name('dashboard')->middleware('auth');

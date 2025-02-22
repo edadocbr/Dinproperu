@@ -150,6 +150,7 @@
   <script src="/assets/js/testi-slider.js"></script> <!-- Script for Testimonial Slider -->
   <script src="/assets/js/partner-slider.js" ></script> <!-- Script for Partner Slider -->
 
+  @stack('scripts')
 
 </body>
 </html>

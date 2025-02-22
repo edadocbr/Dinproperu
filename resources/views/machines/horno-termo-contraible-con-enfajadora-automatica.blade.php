@@ -69,5 +69,9 @@
     <!-- ========== Product-Description Area (End) ========== -->
   </section>
   <!-- ==================== Single Product Area (End) ==================== -->
-  
 @endsection
+
+@push('scripts')
+  <!-- Custom Script Files -->
+  <script src="/assets/js/Product-Gallery.js"></script> <!-- Manages the interactive display of product galleries -->
+@endpush
